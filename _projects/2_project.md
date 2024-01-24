@@ -4,7 +4,7 @@ title: Othello
 description: Project about Fundamentals of Computer
 img: assets/img/21.jpg
 importance: 2
-category: Educationla
+category: Educational
 giscus_comments: true
 ---
 

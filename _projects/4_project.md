@@ -4,7 +4,7 @@ title: Tower
 description: Beautiful Towers in World
 img: assets/img/30.jpg
 importance: 3
-category: work
+category: Work
 ---
 
 All over the world, countries try to make their cites beautiful by building huge and beautiful buildings and 
